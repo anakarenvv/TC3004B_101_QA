@@ -38,6 +38,7 @@ describe('test1', function() {
             // Close the browser
             await driver.quit();
         }
+  });
 
   it('test3', async function() {
     await driver.get("http://127.0.0.1:5500/")
