@@ -37,6 +37,7 @@ describe('test1', function() {
 
             // Close the browser
             await driver.quit();
+        }
           });
 
   it('test5', async function() {
