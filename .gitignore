@@ -1,1 +1,8 @@
 node_modules/
+
+# Maven target directory (generated files)
+backend/target/
+
+# Compiled Java classes
+*.class
+
